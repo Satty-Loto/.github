@@ -7,3 +7,5 @@ Independent information service about Kazakhstan's state lotteries «Sәtті Zh
 - Protection against phishing sites
 
 🌐 https://sattyloto.com
+Crunchbase: https://www.crunchbase.com/organization/sattyloto
+Telegram: https://t.me/sattyloto
